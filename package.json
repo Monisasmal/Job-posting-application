@@ -1,0 +1,25 @@
+{
+  "name": "job-posting",
+  "version": "1.0.0",
+  "description": "create a read write delete and edit of a job application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "middleware",
+    "mongodb",
+    "atlas",
+    "compass"
+  ],
+  "author": "manaswini sasmal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  }
+}
