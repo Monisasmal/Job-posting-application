@@ -2,6 +2,8 @@
 
 A simple Job Posting API using Node.js, Express, and MongoDB Atlas to manage job listings.
 
+---
+
 ## 📌 Features
 
 Create a job posting
@@ -12,6 +14,8 @@ Edit an existing job posting
 
 Delete a job posting
 
+---
+
 ## ⚡ Technologies Used
 
 Node.js - JavaScript runtime
@@ -21,6 +25,8 @@ Express.js - Backend framework
 MongoDB Atlas - Cloud database
 
 Mongoose - ODM for MongoDB
+
+---
 
 ## 📌 API Endpoints
 
@@ -36,6 +42,8 @@ DELETE - /api/v1/job/delete	 == Delete a job
 ## Compass DB Result
 ![image](https://github.com/user-attachments/assets/aa74335f-50d7-41db-872d-e89039b7b338)
 
+---
+
 ## 🛠️ Tools Used
 
 Postman for API testing
@@ -43,6 +51,10 @@ Postman for API testing
 MongoDB Compass for database visualization
 
 Nodemon for development
+
+---
+
+
 
 🙋‍♀️ Author
 
